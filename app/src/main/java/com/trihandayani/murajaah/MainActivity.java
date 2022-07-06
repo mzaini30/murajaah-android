@@ -1,4 +1,4 @@
-package com.mzaini30.murajaah;
+package com.trihandayani.murajaah;
 
 import android.content.Intent;
 import android.net.Uri;
