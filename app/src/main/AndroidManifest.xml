@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.mzaini30.kalkulatorjualan">
+    package="com.mzaini30.murajaah">
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
@@ -20,8 +20,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <meta-data android:name="com.google.android.gms.ads.APPLICATION_ID" android:value="ca-app-pub-9804745932553029~8496692021" />
-        <meta-data android:name="com.startapp.sdk.APPLICATION_ID" android:value="206639606" />
+        <meta-data android:name="com.google.android.gms.ads.APPLICATION_ID" android:value="ca-app-pub-3940256099942544~3347511713" />
+        <meta-data android:name="com.startapp.sdk.APPLICATION_ID" android:value="206585020" />
     </application>
 
 </manifest>

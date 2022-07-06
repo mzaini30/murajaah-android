@@ -1,4 +1,4 @@
-package com.mzaini30.kalkulatorjualan;
+package com.mzaini30.murajaah;
 
 import android.content.Intent;
 import android.net.Uri;
@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        StartAppSDK.init(this, "206639606", false);
+        StartAppSDK.init(this, "206585020", false);
         StartAppAd.disableSplash();
 
         RelativeLayout mainLayout = (RelativeLayout)findViewById(R.id.mainLayout);
