@@ -19,11 +19,8 @@ function cek(x: string): void {
 </script>
 
 <template>
-  <div class="w-full">
-    <div
-      :style="`width: ${(data.length / 120) * 100}%`"
-      class="bg-green-500 h-2"
-    >
+  <div class="w-full top-0 sticky bg-slate-200">
+    <div :style="`width: ${(data.length / 120) * 100}%`" class="bg-red-500 h-2">
       &nbsp;
     </div>
   </div>

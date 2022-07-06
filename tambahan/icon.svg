@@ -9,6 +9,9 @@
    id="svg8"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    sodipodi:docname="icon.svg"
+   inkscape:export-filename="/home/zen/aplikasi-android/murajaah/tambahan/icon.png"
+   inkscape:export-xdpi="74.832954"
+   inkscape:export-ydpi="74.832954"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -26,7 +29,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.16403309"
-     inkscape:cx="-384.06885"
+     inkscape:cx="-390.16518"
      inkscape:cy="746.80054"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -54,7 +57,7 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:#34d399;fill-opacity:1;stroke-width:0.264583"
+       style="fill:#ffa3a5;fill-opacity:1;stroke-width:0.264583"
        id="rect815"
        width="339.42264"
        height="339.42264"
@@ -63,16 +66,20 @@
        inkscape:export-xdpi="74.832954"
        inkscape:export-ydpi="74.832954"
        inkscape:export-filename="/home/zen/aplikasi-android/kalkulator-jualan/tambahan/icon.png" />
-    <path
-       fill="none"
-       stroke="currentColor"
-       stroke-linecap="round"
-       stroke-linejoin="round"
-       stroke-width="8.6536"
-       d="m -119.89523,119.21318 h 109.612211 l -17.307131,57.69065 h -74.99794 z m 0,0 -4.32673,-14.42274 m 44.66397,43.26806 h 11.5382 m 11.53804,0 h -11.53804 m 0,0 v -11.53819 m 0,11.53819 v 11.53804 m -5.72298,37.49896 a 8.6535926,8.6535926 0 0 1 -17.30713,0 m 51.92156,0 a 8.6535921,8.6535921 0 0 1 -17.30713,0"
-       id="path827"
-       inkscape:export-filename="/home/zen/aplikasi-android/kalkulator-jualan/tambahan/icon.png"
-       inkscape:export-xdpi="74.832954"
-       inkscape:export-ydpi="74.832954" />
+    <g
+       id="g836"
+       transform="matrix(0.2370621,0,0,0.2370621,-127.94046,94.57104)"
+       style="fill:#ffffff">
+      <path
+         fill="currentColor"
+         d="m 256,112 a 56,56 0 1 1 56,-56 56.06,56.06 0 0 1 -56,56 z"
+         id="path824"
+         style="fill:#ffffff" />
+      <path
+         fill="currentColor"
+         d="m 432,112.8 -0.45,0.12 -0.42,0.13 c -1,0.28 -2,0.58 -3,0.89 -18.61,5.46 -108.93,30.92 -172.56,30.92 -59.13,0 -141.28,-22 -167.56,-29.47 a 73.79,73.79 0 0 0 -8,-2.58 c -19,-5 -32,14.3 -32,31.94 0,17.47 15.7,25.79 31.55,31.76 v 0.28 l 95.22,29.74 c 9.73,3.73 12.33,7.54 13.6,10.84 4.13,10.59 0.83,31.56 -0.34,38.88 l -5.8,45 -32.19,176.19 q -0.15,0.72 -0.27,1.47 l -0.23,1.27 c -2.32,16.15 9.54,31.82 32,31.82 19.6,0 28.25,-13.53 32,-31.94 3.75,-18.41 28,-157.57 42,-157.57 14,0 42.84,157.57 42.84,157.57 3.75,18.41 12.4,31.94 32,31.94 22.52,0 34.38,-15.74 32,-31.94 A 57.17,57.17 0 0 0 361.63,476 L 329,301.27 l -5.79,-45 c -4.19,-26.21 -0.82,-34.87 0.32,-36.9 a 1.09,1.09 0 0 0 0.08,-0.15 c 1.08,-2 6,-6.48 17.48,-10.79 l 89.28,-31.21 a 16.9,16.9 0 0 0 1.62,-0.52 c 16,-6 32,-14.3 32,-31.93 0,-17.63 -12.99,-36.96 -31.99,-31.97 z"
+         id="path826"
+         style="fill:#ffffff" />
+    </g>
   </g>
 </svg>
